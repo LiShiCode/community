@@ -1,4 +1,4 @@
-// community.cpp : 定义控制台应用程序的入口点。
+// community.cpp : 瀹氫箟鎺у埗鍙板簲鐢ㄧ▼搴忕殑鍏ュ彛鐐广�?
 //
 
 #include "stdafx.h"
