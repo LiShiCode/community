@@ -8,7 +8,7 @@ int main()
 {
 
 	printf("Hello git,Wellcome to community");
-	printf("change need commit.")
+	printf("I said yes");
 	getchar();
     return 0;
 }
