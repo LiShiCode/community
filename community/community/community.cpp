@@ -8,7 +8,6 @@ int main()
 {
 
 	printf("Hello git,Wellcome to community");
-
 	getchar();
     return 0;
 }
