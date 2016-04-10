@@ -9,3 +9,7 @@ Feature
 I'm from develop
 
 Release Check complete
+
+bug of funcl fixed
+
+commit
